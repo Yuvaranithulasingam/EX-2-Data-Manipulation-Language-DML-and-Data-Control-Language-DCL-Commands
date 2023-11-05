@@ -156,5 +156,6 @@ select designation,count(*) as number_employee from managers GROUP BY designatio
 #### OUTPUT:
 ![Screenshot 2023-09-28 194303](https://github.com/Yuvaranithulasingam/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121418522/3737eb50-a938-4086-bb9c-fa180630920c)
 
+
 ## RESULT:
     Executing DML queries using SQL was executed successfully.
